@@ -3,4 +3,4 @@ An example project for starting with Three.js a framework of JavaScript to creat
 
 
 ## This is an example project of Three.js for starting with three.js a javascript framework for creating 3-D websites!
-<img src="https://img.stackshare.io/service/5883/preview.png" alt="The logo of Three.js">
+<p align="center"><img src="https://img.stackshare.io/service/5883/preview.png" alt="The logo of Three.js"></p>
